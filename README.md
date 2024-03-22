@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArlsD
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning AWS & DevOps Course
-- 💞️ I’m looking to collaborate on anything to do with DevOps 
+- 💞️ I’m looking to collaborate on anything to do with DevOps and AWS
 - 📫 How to reach me, its simple leave me a message at arlenedsouza84@gmail.com 
 
 <!---
